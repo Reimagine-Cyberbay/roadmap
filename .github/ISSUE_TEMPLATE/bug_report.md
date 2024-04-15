@@ -24,7 +24,7 @@ If applicable, add screenshots to help explain your problem.
 **OS/Browser version**
 
 **Security related issues**
-If this is a security related issue, please submit it via our [official bug bounty program](https://link-to-your-program).
+If this is a security related issue, please submit it via our [official bug bounty program](https://cyberbay.tech/bounty-hunters).
 
 **Appreciation**
 We appreciate your contribution. If you want to receive appreciation for your finding, please input your display name below.
