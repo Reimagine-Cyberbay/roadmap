@@ -1,6 +1,6 @@
 ---
 name: User Feedback
-about: Provide feedback to help us improve
+about: Provide feedback, or report when you think something is broken to help us improve
 labels: bug, needs-triage
 assignees: Louis
 
